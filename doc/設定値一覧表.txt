@@ -1,0 +1,48 @@
+[S01SH (Emobile)]
+
+	PreviewとCaptureを調査。
+
+	PinCategory:Preview
+		サイズ
+		240 x 320 -fps
+		480 x 640 -fps
+		320 x 240 -fps
+		640 x 480 -fps
+		
+		フォーマット
+		RGB565のみ。
+		
+		備考
+		-
+
+	PinCategory:Capture
+		サイズ
+		120 x 160 -fps
+		240 x 320 -fps
+		160 x 120 -fps
+		320 x 240 -fps
+
+		フォーマット
+		RGB565のみ。
+		
+		備考
+		起動時に効果音有り。キャプチャは出来るが値は取れない。
+		上下が反転している。
+
+		
+[S01SH (Emobile)]
+	Previewのみ調査。
+
+	PinCategory:Preview
+		サイズ
+		240 x 320 -fps
+		384 x 384 -fps
+		
+		フォーマット
+		RGB565のみ。
+		
+		備考
+		-
+		
+----
+(c)2008 A虎@nyatla.jp

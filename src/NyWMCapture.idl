@@ -1,0 +1,10 @@
+// NyWMCapture.idl : NyWMCapture.dll のタイプ ライブラリ ソース
+// このファイルは、タイプ ライブラリ (.tlb) を作成するために、
+// タイプ ライブラリ (NyWMCapture.tlb) です。
+
+[ uuid(2C8B90EA-915B-4E6B-A149-3297408AAA0E), version(1.0) ]
+library NyWMCapture
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
