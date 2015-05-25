@@ -1,4 +1,4 @@
-# WindowsMobile用キャプチャCOM DLL.
+# WindowsMobile用キャプチャCOM DLL
 Copyright (C)2008 nyatla
 
 version 0.1.2
